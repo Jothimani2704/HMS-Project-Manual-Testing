@@ -4,32 +4,32 @@ Hospital Management System project (HMS). It encompasses both manual testing, wh
 # HMS Project Modules:
 * **Hospital Management**<br>
    *  Hospital Master<br>
-  Block Master<br>
-  Ward Master<br>
-  Room Master<br>
+   *  Block Master<br>
+   *  Ward Master<br>
+   *  Room Master<br>
 * **Kiosk Machine Management**<br>
-  Kiosk Machine Master<br>
-  Kiosk Machine Module<br>
+   *  Kiosk Machine Master<br>
+   *  Kiosk Machine Module<br>
 * **Shift Management**<br>
-  Shift Master<br>
+   *  Shift Master<br>
 * **Staff Management**<br>
-  Staff Master<br>
-  Duty Roster<br>
+  *  Staff Master<br>
+  *  Duty Roster<br>
 * **Token Management**<br>
-  Receptionist Desk<br>
-  Nurse Deck<br>
-  Doctor Desk<br>
+  *  Receptionist Desk<br>
+  *  Nurse Deck<br>
+  *  Doctor Desk<br>
 * **Patient Management**<br>
-  Patient Details<br>
+  *  Patient Details<br>
 * **Appointment Management**<br>
-  Appointment Scheduling<br>
+  *  Appointment Scheduling<br>
 * **Lab Management**<br>
-  Lab Master<br>
-  Lab Patient Test<br>
+  *  Lab Master<br>
+  *  Lab Patient Test<br>
 * **Billing Management**<br>
-  Patient Invoice (Generate Invoice)<br>
+  *  Patient Invoice (Generate Invoice)<br>
 * **Reports**<br>
-  Staff Performance Report<br>
+  *  Staff Performance Report<br>
   Patient Registration Report<br>
   Appointment Reports<br>
 * **Administration**<br>
