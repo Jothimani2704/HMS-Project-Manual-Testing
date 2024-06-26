@@ -28,16 +28,16 @@ Hospital Management project. It encompasses both manual testing, which ensures r
   Verified the correct generation of patient tokens and their integration with appointment scheduling. Ensured that tokens were dynamically assigned to doctor slots, optimizing resource 
   allocation.
 
-* Usability Testing: 
+* Usability Testing:<br>
   Assessed the user interface and interaction flow to confirm ease of use for hospital staff managing patient tokens and scheduling.
 
-* Integration Testing:
+* Integration Testing:<br>
   I have checked the integration of the patient token system with the overall HMS, ensuring smooth functionality across different modules, including medical history tracking.
 
-* Performance Testing:
+* Performance Testing:<br>
   We evaluated the system's performance under varying loads to ensure stability and efficiency during peak usage times.
 
-* Reliability Testing:
+* Reliability Testing:<br>
   Ensured the reliability of the medical history tracking feature, confirming accurate and secure management of patient records.
   
   Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a seamless experience for healthcare providers 
