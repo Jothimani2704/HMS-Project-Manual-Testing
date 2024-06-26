@@ -23,7 +23,7 @@ Hospital Management project. It encompasses both manual testing, which ensures r
 # Manual Testing
 * We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined patient flow and efficient appointment scheduling for doctors. Our testing efforts included:
 
-* Functional Testing:
+*** Functional Testing:**
   Verified the correct generation of patient tokens and their integration with appointment scheduling. Ensured that tokens are dynamically assigned to doctor slots, optimizing resource 
   allocation.
 
