@@ -21,9 +21,10 @@ Hospital Management project. It encompasses both manual testing, which ensures r
 * Patient Invoice (Generate Invoice)
 
 # Manual Testing
-* We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined patient flow and efficient appointment scheduling for doctors. Our testing efforts included:
+* We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined patient flow and efficient appointment 
+  scheduling for doctors. Our testing efforts included:
 
-** Functional Testing:**
+* Functional Testing:*
   Verified the correct generation of patient tokens and their integration with appointment scheduling. Ensured that tokens are dynamically assigned to doctor slots, optimizing resource 
   allocation.
 
@@ -38,6 +39,7 @@ Hospital Management project. It encompasses both manual testing, which ensures r
 
 * Reliability Testing:
   Ensured the reliability of the medical history tracking feature, confirming accurate and secure management of patient records.
+  
   Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a seamless experience for healthcare providers 
   and patients alike.
 
