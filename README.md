@@ -61,6 +61,8 @@ Hospital Management System project (HMS). It encompasses both manual testing, wh
   * Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a 
   seamless experience for healthcare providers and patients alike.
 
+# Jira Integration
+The integration of Jira into our manual testing workflow for the Hospital Management project streamlined test case management, issue tracking, and collaboration among team members. By leveraging Jira's capabilities, we effectively communicated, assigned tasks, and monitored progress throughout the testing phase, enhancing overall efficiency and productivity in the healthcare environment.
 
-
-
+# Conclusion
+Our manual testing experience significantly contributed to the quality and reliability of the Hospital Management project. By uncovering defects, validating user requirements, and ensuring adherence to quality standards, we played a vital role in delivering a healthcare management solution that meets the needs and expectations of our users, ensuring better patient care and efficient hospital operations.
