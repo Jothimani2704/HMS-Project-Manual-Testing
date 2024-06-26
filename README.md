@@ -2,41 +2,41 @@
 # Overview:
 Hospital Management System project (HMS). It encompasses both manual testing, which ensures reliability, functionality, and usability, and performance testing, aimed at evaluating system efficiency and stability. Our testing methodologies, tools, and integration with Jira are highlighted to provide a holistic view of our quality assurance process.
 # HMS Project Modules:
-# Hospital Management
+**Hospital Management**
 * Hospital Master
 * Block Master
 * Ward Master
 * Room Master
-# Kiosk Machine Management
+**Kiosk Machine Management**
 * Kiosk Machine Master
 * Kiosk Machine Module
-# Shift Management
+**Shift Management**
 * Shift Master
-# Staff Management
+**Staff Management**
 * Staff Master
 * Duty Roster
-# Token Management
+**Token Management**
 * Receptionist Desk
 * Nurse Deck
 * Doctor Desk
-# Patient Management
+**Patient Management**
 * Patient Details
-# Appointment Management
+**Appointment Management**
 * Appointment Scheduling
-# Lab Management
+**Lab Management**
 * Lab Master
 * Lab Patient Test
-# Billing Management
+**Billing Management**
 * Patient Invoice (Generate Invoice)
-# Reports
+**Reports**
 Staff Performance Report
 Patient Registration Report
 Appointment Reports
-# Administration
+**Administration**
 Users
 Roles
 Tenants
-# System Configuration
+**System Configuration**
 Logs
 # Manual Testing:
 * We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined
