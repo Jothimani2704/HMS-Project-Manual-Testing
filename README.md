@@ -10,12 +10,12 @@ Hospital Management System project (HMS). It encompasses both manual testing, wh
 * **Kiosk Machine Management**<br>
   Kiosk Machine Master<br>
   Kiosk Machine Module<br>
-* **Shift Management**
+* **Shift Management**<br>
   Shift Master<br>
-* **Staff Management**
+* **Staff Management**<br>
   Staff Master<br>
   Duty Roster<br>
-* **Token Management**
+* **Token Management**<br>
   Receptionist Desk<br>
   Nurse Deck<br>
   Doctor Desk<br>
