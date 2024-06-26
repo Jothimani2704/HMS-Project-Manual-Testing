@@ -7,36 +7,36 @@ Hospital Management System project (HMS). It encompasses both manual testing, wh
   Block Master<br>
   Ward Master<br>
   Room Master<br>
-**Kiosk Machine Management**<br>
+* **Kiosk Machine Management**<br>
   Kiosk Machine Master<br>
   Kiosk Machine Module<br>
-**Shift Management**
+* **Shift Management**
   Shift Master<br>
-**Staff Management**
+* **Staff Management**
   Staff Master<br>
   Duty Roster<br>
-**Token Management**
+* **Token Management**
   Receptionist Desk<br>
   Nurse Deck<br>
   Doctor Desk<br>
-**Patient Management**
+* **Patient Management**
   Patient Details
-**Appointment Management**
+* **Appointment Management**
   Appointment Scheduling
-**Lab Management**
+* **Lab Management**
   Lab Master
   Lab Patient Test
-**Billing Management**
+* **Billing Management**
   Patient Invoice (Generate Invoice)<br>
-**Reports**<br>
+* **Reports**<br>
   Staff Performance Report<br>
   Patient Registration Report<br>
   Appointment Reports<br>
-**Administration**<br>
+* **Administration**<br>
   Users<br>
   Roles<br>
   Tenants<br>
-**System Configuration**<br>
+* **System Configuration**<br>
   Logs<br>
 # Manual Testing:
 * We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined
