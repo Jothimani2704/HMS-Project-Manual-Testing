@@ -40,7 +40,7 @@ Hospital Management project. It encompasses both manual testing, which ensures r
 **Reliability Testing:**<br>
   * Ensured the reliability of the medical history tracking feature, confirming accurate and secure management of patient records.
   
-  Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a 
+  * Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a 
   seamless experience for healthcare providers and patients alike.
 
 
