@@ -23,22 +23,23 @@ Hospital Management project. It encompasses both manual testing, which ensures r
 # Manual Testing
 * We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined patient flow and efficient appointment scheduling for doctors. Our testing efforts included:
 
-# Functional Testing:
-* Verified the correct generation of patient tokens and their integration with appointment scheduling. Ensured that tokens are dynamically assigned to doctor slots, optimizing resource allocation.
+* Functional Testing:
+  Verified the correct generation of patient tokens and their integration with appointment scheduling. Ensured that tokens are dynamically assigned to doctor slots, optimizing resource 
+  allocation.
 
-# Usability Testing: 
-* Assessed the user interface and interaction flow to confirm ease of use for hospital staff managing patient tokens and scheduling.
+* Usability Testing: 
+  Assessed the user interface and interaction flow to confirm ease of use for hospital staff managing patient tokens and scheduling.
 
-# Integration Testing:
-* I have checked the integration of the patient token system with the overall HMS, ensuring smooth functionality across different modules, including medical history tracking.
+* Integration Testing:
+  I have checked the integration of the patient token system with the overall HMS, ensuring smooth functionality across different modules, including medical history tracking.
 
-# Performance Testing:
-* We evaluated the system's performance under varying loads to ensure stability and efficiency during peak usage times.
+* Performance Testing:
+  We evaluated the system's performance under varying loads to ensure stability and efficiency during peak usage times.
 
-# Reliability Testing:
-* Ensured the reliability of the medical history tracking feature, confirming accurate and secure management of patient records.
-
-* Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a seamless experience for healthcare providers and patients alike.
+* Reliability Testing:
+  Ensured the reliability of the medical history tracking feature, confirming accurate and secure management of patient records.
+  Our comprehensive testing process contributed to the reliability, usability, and performance of the Hospital Management System, ensuring a seamless experience for healthcare providers 
+  and patients alike.
 
 
 
