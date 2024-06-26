@@ -30,14 +30,14 @@ Hospital Management System project (HMS). It encompasses both manual testing, wh
   *  Patient Invoice (Generate Invoice)<br>
 * **Reports**<br>
   *  Staff Performance Report<br>
-  Patient Registration Report<br>
-  Appointment Reports<br>
+  *  Patient Registration Report<br>
+  *  Appointment Reports<br>
 * **Administration**<br>
-  Users<br>
-  Roles<br>
-  Tenants<br>
+  *  Users<br>
+  *  Roles<br>
+  *  Tenants<br>
 * **System Configuration**<br>
-  Logs<br>
+  *  Logs<br>
 # Manual Testing:
 * We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined
   patient flow and efficient appointment scheduling for doctors. Our testing efforts included:
