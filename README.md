@@ -3,41 +3,41 @@
 Hospital Management System project (HMS). It encompasses both manual testing, which ensures reliability, functionality, and usability, and performance testing, aimed at evaluating system efficiency and stability. Our testing methodologies, tools, and integration with Jira are highlighted to provide a holistic view of our quality assurance process.
 # HMS Project Modules:
 **Hospital Management**<br>
-* Hospital Master
-* Block Master
-* Ward Master
-* Room Master<br>
+  Hospital Master
+  Block Master
+  Ward Master
+  Room Master<br>
 **Kiosk Machine Management**<br>
-* Kiosk Machine Master<br>
-* Kiosk Machine Module<br>
+  Kiosk Machine Master<br>
+  Kiosk Machine Module<br>
 **Shift Management**
-* Shift Master<br>
+  Shift Master<br>
 **Staff Management**
-* Staff Master<br>
-* Duty Roster<br>
+  Staff Master<br>
+  Duty Roster<br>
 **Token Management**
-* Receptionist Desk<br>
-* Nurse Deck<br>
-* Doctor Desk<br>
+  Receptionist Desk<br>
+  Nurse Deck<br>
+  Doctor Desk<br>
 **Patient Management**
-* Patient Details
+  Patient Details
 **Appointment Management**
-* Appointment Scheduling
+  Appointment Scheduling
 **Lab Management**
-* Lab Master
-* Lab Patient Test
+  Lab Master
+  Lab Patient Test
 **Billing Management**
-* Patient Invoice (Generate Invoice)<br>
+  Patient Invoice (Generate Invoice)<br>
 **Reports**<br>
-Staff Performance Report<br>
-Patient Registration Report<br>
-Appointment Reports<br>
+  Staff Performance Report<br>
+  Patient Registration Report<br>
+  Appointment Reports<br>
 **Administration**<br>
-Users<br>
-Roles<br>
-Tenants<br>
+  Users<br>
+  Roles<br>
+  Tenants<br>
 **System Configuration**<br>
-Logs<br>
+  Logs<br>
 # Manual Testing:
 * We rigorously tested the patient token generation system within the Hospital Management System (HMS) to ensure it facilitates a streamlined
   patient flow and efficient appointment scheduling for doctors. Our testing efforts included:
