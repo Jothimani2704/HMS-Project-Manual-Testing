@@ -19,14 +19,14 @@ Hospital Management System project (HMS). It encompasses both manual testing, wh
   Receptionist Desk<br>
   Nurse Deck<br>
   Doctor Desk<br>
-* **Patient Management**
-  Patient Details
-* **Appointment Management**
-  Appointment Scheduling
-* **Lab Management**
-  Lab Master
-  Lab Patient Test
-* **Billing Management**
+* **Patient Management**<br>
+  Patient Details<br>
+* **Appointment Management**<br>
+  Appointment Scheduling<br>
+* **Lab Management**<br>
+  Lab Master<br>
+  Lab Patient Test<br>
+* **Billing Management**<br>
   Patient Invoice (Generate Invoice)<br>
 * **Reports**<br>
   Staff Performance Report<br>
